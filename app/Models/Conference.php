@@ -11,7 +11,7 @@ class Conference extends Model
     use HasFactory;
 
     /**
-     * Lentelės stulpeliai, kuriuos galima užpildyti masyviniais duomenimis.
+     * 
      *
      * @var array<int, string>
      */
@@ -25,7 +25,7 @@ class Conference extends Model
     ];
 
     /**
-     * Nurodyti, kaip laukai turėtų būti automatiškai konvertuojami.
+     *
      *
      * @var array<string, string>
      */
